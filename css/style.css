@@ -429,6 +429,17 @@ header .follow a:hover{
 	font-size: 5rem;
 }
 
+.join p{
+	font-size: 2rem;
+	color: darkred;
+}
+
+p{
+	font-size: 1rem;
+	text-align: center;
+	color: var(--main-color);
+}
+
 
 
 
